@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T17:18:16.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DX5QppT9U7yFLyC48J1z" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T17:19:53.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GWvNiQjwKLYcV3Y2rmkW" version="22.0.8" type="github">
   <diagram name="Page-1" id="iaZ78Tpp4MMBf7YpNLYp">
-    <mxGraphModel dx="6692" dy="5644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7303" dy="5955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,8 +18,8 @@
         <mxCell id="Xm8CHg0hN7ATnACHUStH-5" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;strokeColor=#232F3E;fontColor=#232F3E;gradientColor=none;fontStyle=0;spacingLeft=30;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-3728" y="-3440" width="984" height="349" as="geometry" />
         </mxCell>
-        <mxCell id="Xm8CHg0hN7ATnACHUStH-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Verdana&quot;&gt;Used to fetch last week company details &amp;amp; export them to CSV.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-3550.04" y="-3300" width="645.34" height="157.5" as="geometry" />
+        <mxCell id="Xm8CHg0hN7ATnACHUStH-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Verdana&quot;&gt;Used to fetch last week company details by using filterations such as Location &amp;amp; Last funding date range &amp;amp; then export them to CSV.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-3550.0299999999997" y="-3263.25" width="645.34" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="Xm8CHg0hN7ATnACHUStH-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/C/crunchbase-logo-E15BA75BBE-seeklogo.com.png;imageBorder=none;" parent="1" vertex="1">
           <mxGeometry x="-3330" y="-3422" width="205.27" height="158.75" as="geometry" />
